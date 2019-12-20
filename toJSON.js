@@ -1,7 +1,7 @@
 /*
  * toJSON 0.1
  *
- * Copyright (C) 2013 Umair H. Peracha (http://www.about.me/umairp)
+ * Copyright (C) 2013 Umair H. Peracha (https://github.com/uperacha)
  *
  * Permission is hereby granted, free of charge, to any person obtaining
  * a copy of this software and associated documentation files (the
